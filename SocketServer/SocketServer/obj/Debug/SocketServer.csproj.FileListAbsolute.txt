@@ -1,0 +1,15 @@
+c:\users\анна\documents\visual studio 2012\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+c:\users\анна\documents\visual studio 2012\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+c:\users\анна\documents\visual studio 2012\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+c:\users\анна\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+c:\users\анна\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+c:\users\анна\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+D:\Anna\Universitet\Сети ЭВМ\Лабораторная работа 9\Lab09-Sockets\SimpleServer_C#\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\Anna\Universitet\Сети ЭВМ\Лабораторная работа 9\Lab09-Sockets\SimpleServer_C#\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\Anna\Universitet\Сети ЭВМ\Лабораторная работа 9\Lab09-Sockets\SimpleServer_C#\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\SimpleServer_C#\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\SimpleServer_C#\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\SimpleServer_C#\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\SimpleServer_C#\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\SimpleServer_C#\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\SimpleServer_C#\SocketServer\SocketServer\obj\Debug\SocketServer.pdb

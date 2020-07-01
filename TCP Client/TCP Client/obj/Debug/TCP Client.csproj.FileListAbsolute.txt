@@ -1,0 +1,6 @@
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\TCP Client\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\TCP Client\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\TCP Client\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\TCP Client\TCP Client\obj\Debug\TCP Client.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\TCP Client\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\TCP Client\TCP Client\obj\Debug\TCP Client.pdb
